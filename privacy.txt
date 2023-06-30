@@ -190,3 +190,11 @@ MISCELLANEOUS
 20.9 Entire Agreement. This is the entire agreement between you and GENTLEBIRTH relating to the subject matter herein and supersedes all previous communications, representations, understandings, and agreements, either oral or written, between the parties with respect to said subject matter. These Terms shall not be modified except in a writing signed by both parties, or by a change to these Terms made by GENTLEBIRTH as set forth in Section 4 above.
 
 20.10 Disclosures. The products and services hereunder are offered by GENTLEBIRTH, LLC. You can contact GentleBirth LLC. by electronic mail at team@GENTLEBIRTH.com.
+
+GDPR/CCPA POLICIES AND OTHER PRIVACY LAWS
+Refer to the following documents:
+
+
+https://github.com/gentlebirth/LegalDocs/blob/main/Cookies-Policy.docx
+https://github.com/gentlebirth/LegalDocs/blob/main/Privacy-Notice.docx
+
