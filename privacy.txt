@@ -210,4 +210,4 @@ Storage: All chat interactions are stored securely on Firebase. If you wish to r
 
 Privacy & Sharing: Your privacy is paramount to us. We do not share your chat interactions with any external entities except for the core technologies that help operate GentleBirth. We pledge not to sell or share your information for any reason.
 
-Your trust is of utmost importance to us, and we're committed to safeguarding your data. If you have any concerns or questions, please don't hesitate to reach out.
+Your trust is of utmost importance to us, and we're committed to safeguarding your data. If you have any concerns or questions, please don't hesitate to reach out to team@gentlebirt.com
