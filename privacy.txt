@@ -198,3 +198,16 @@ Refer to the following documents:
 https://github.com/gentlebirth/LegalDocs/blob/main/Cookies-Policy.docx
 https://github.com/gentlebirth/LegalDocs/blob/main/Privacy-Notice.docx
 
+## GentleBirth Chatbot Disclosure
+
+At GentleBirth, our primary objective is to offer you the best possible experience. Part of this commitment is ensuring clear communication and continually improving our chatbot's responses.
+
+How We Use Your Chat Interactions:
+
+Improvement: We analyze the questions and feedback you provide through the chatbot to enhance its accuracy and relevance. This helps us better serve your needs and answer your questions more effectively.
+
+Storage: All chat interactions are stored securely on Firebase. If you wish to review or delete your chat history, you can easily request it at any time.
+
+Privacy & Sharing: Your privacy is paramount to us. We do not share your chat interactions with any external entities except for the core technologies that help operate GentleBirth. We pledge not to sell or share your information for any reason.
+
+Your trust is of utmost importance to us, and we're committed to safeguarding your data. If you have any concerns or questions, please don't hesitate to reach out.
