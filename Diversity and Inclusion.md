@@ -14,7 +14,7 @@ At **GentleBirth**, a program used across the globe, we firmly believe in creati
 
 - **Sensitivity Training:** Our global presence demands that our team understands the nuances of various experiences. We're investing in sensitivity training for all our moderators to ensure that conversations are approached with empathy and knowledge, regardless of the cultural or linguistic context.
 
-- **Open Dialogue and Evidence-Based Sources:** GentleBirth encourages all members to actively participate in discussions. We envision our platform as a haven for open, respectful dialogue, where a multitude of opinions is valued. Our moderators will prioritize evidence-based sources to guide conversations and provide clarity on topics that may lack clear guidance from established communities of practice. We refer to the seminal research by Gribble et al., (2022) for the importance of using sexed language in healthcare. Healthcare serves diverse populations; using accurate language ensures accessibility to everyone, irrespective of their linguistic or educational background.
+- **Open Dialogue and Evidence-Based Sources:** GentleBirth encourages all members to actively participate in discussions. We envision our platform as a haven for open, respectful dialogue, where a multitude of opinions are valued. Our moderators will prioritize evidence-based sources to guide conversations and provide clarity on topics that may lack clear guidance from established communities of practice. We refer to the seminal research by Gribble et al., (2022) for the importance of using sexed language in healthcare. Healthcare serves diverse populations; using accurate language ensures accessibility to everyone, irrespective of their linguistic or educational background.
 
 ---
 
